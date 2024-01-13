@@ -163,9 +163,9 @@ async function mergeImagesToPDF(imagePaths, outputPDFPath) {
  rassembler tout les pdf ensemble
 */
 
-const mangaName = 'TokyoRevengers.pdf';
-const directoryPath = '/Users/personnel/Documents/Mangas/Tokyo Revengers';
-const directoryPathPDFs = '/Users/personnel/Documents/Mangas/Tokyo Revengers/PDF';
+const mangaName = 'Haikyuu.pdf';
+const directoryPath = './pages';
+const directoryPathPDFs = './chapiters';
 
 // normalisation des noms des dossiers de chapitre téléchargé
 normalizeFolderNumbers(directoryPath, 'directory');

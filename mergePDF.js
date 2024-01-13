@@ -2,9 +2,9 @@ const fs = require('fs');
 const { PDFDocument: PDFLib } = require('pdf-lib');
 const path = require('path');
 
-const mangaName = 'TokyoRevengers.pdf';
-const directoryPath = '/Users/personnel/Documents/Mangas/Tokyo Revengers';
-const directoryPathPDFs = '/Users/personnel/Documents/Mangas/Tokyo Revengers/PDF';
+const mangaName = 'Haikyuu.pdf';
+const directoryPath = './output';
+const directoryPathPDFs = './chapiters';
 
 function listFilesOrDirectoryInDirectory(directoryPath, fileOrDirectory) {
     try {
