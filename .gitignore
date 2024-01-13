@@ -199,3 +199,8 @@ Next.js
 
 # End of 
 https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,node
+
+# Program folders
+pages/*
+chapiters/*
+output/*

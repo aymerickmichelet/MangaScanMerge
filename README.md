@@ -42,7 +42,7 @@ node mergePDF.js
 
 ## Documentation
 
-🔜 ~~[Documentation](https://github.com/aymerickmichelet/MangaScanMerge/wiki)~~
+[Documentation](https://github.com/aymerickmichelet/MangaScanMerge/wiki)
 
 
 ## Authors
